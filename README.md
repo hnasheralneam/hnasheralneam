@@ -1,15 +1,17 @@
 ## Heeeeeeeey! Hi! Hello! Hi again!
 ### So nice to see you!
 
-Hi! I'm Editor Squirrel, and this is my GitHub profile!  
+Hi! I'm Editor Rust, welcome to my GitHub profile!  
 Blogs are for the self-centered, so I decided to write an autobiography.  
+I put some information here, but if you want more check out my [personal site](https://editorrust.github.io)  
 I pinned my favorite repositories, you can check them out if you have time!
 
 I'm a web developer, well techincally a student but whatever. All that matters here is what you build!  
-I'm working on a couple projects right now, mostly [Git Organized!](https://github.com/editorrust/git-organized) & [chat experiments](https://github.com/editorrust/chat-playground). I'm working on chat expirements to mess around with Socket.io , encryption, and other cool features, and evetually I'll integrate the resulting chat into all my apps.  
 
-My dreams projects are Git Organized & a secret project which will help open source developers find projects to contribute to. So I'm working on Git Organized now! No need to wait for my dreams :)  
-But what is Git Organzied? A project planning tool! You should totally go check out the repository. It's not even near usable yet, but I'm working on it!  
+I'm working on two major projects right now, Git Organized and some Chat Experiments.
+[Git Organized](https://github.com/editorrust/git-organized) is a project planning and managment tool built for developers. I'm really excieted about this, go check out the repository! It's clearly not ready for use, but I' working on it.  
+
+[ Chat Experiments](https://github.com/editorrust/chat-playground) is a project to mess around with Socket.io, encryption, and other cool features, which plans to evetually have a politics-free global chat, Discord-style servers for communities, direct messaging for friends and family, and Disqus-esque built-in chats for websites.  
 
 Some other projects I've worked on... 
 - [Gold Rush!](https://github.com/editorrust/gold-rush) My clicker game, it's no cookie clicker, but it got me on my webdev journey
