@@ -4,7 +4,7 @@
 Hi! I'm Editor Rust, welcome to my GitHub profile!  
 If you want to learn more about meand my work, check out my personal site -> [personal site](https://editorrust.github.io)  
 
-Live stats?
+Live stats?  
 [![Editor Rust's GitHub stats](https://github-readme-stats.vercel.app/api?username=editorrust)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Here's the rundown: 
