@@ -1,8 +1,7 @@
 Hi, I'm Editor Rust!
 If you want to learn more about me and my work, check out my [personal site](https://editorrust.github.io)  
 
-[![Editor Rust's GitHub stats](https://github-readme-stats.vercel.app/api?username=editorrust)](https://github.com/anuraghazra/github-readme-stats)  
-![Visitor Count](https://profile-counter.glitch.me/editorrust/count.svg)
+[![Editor Rust's GitHub stats](https://github-readme-stats.vercel.app/api?username=editorrust)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Here's the rundown: 
 
