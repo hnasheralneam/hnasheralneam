@@ -1,8 +1,8 @@
 Hi! I'm a web developer, well technically a student but whatever.  
 If you want to learn more about me and my work, check out my [personal site](https://editorrust.github.io)  
 
-QWERTY: ~65 wpm  
-Programmer's Dvorak: ~40 wpm  
+QWERTY: ~40 wpm  
+Programmer's Dvorak: ~75 wpm  
 
 You can email me at editorrust@gmail.com  
 
