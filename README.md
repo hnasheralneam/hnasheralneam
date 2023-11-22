@@ -1,15 +1,15 @@
 Hi! I'm a web developer, well technically a student but whatever.  
-If you want to learn more about me and my work, check out my [personal site](https://editorrust.github.io)  
+Looking into Android development with Kotlin.  
+If you want to learn more about me and my work, check out my [personal site](https://hnasheralneam.github.io)  
 
-QWERTY: ~40 wpm  
-Programmer's Dvorak: ~75 wpm  
+Programmer's Dvorak: ~100 wpm  
+QWERTY: ~45 wpm  
 
-You can email me at editorrust@gmail.com  
+You can email me at hnasheralneam@gmail.com  
 
 ### "Fun" information...
 - Markdown!
-- USB-C is just about the coolest thing ever
-- Material 3 looks bad   
+- USB-C is the best port ever
 - :)
 
-[![Editor Rust's GitHub stats](https://github-readme-stats.vercel.app/api?username=editorrust)](https://github.com/anuraghazra/github-readme-stats)  
+[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnasheralneam)](https://github.com/anuraghazra/github-readme-stats)  
