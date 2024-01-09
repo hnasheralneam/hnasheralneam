@@ -4,8 +4,5 @@ Taking AP Comp Sci A; I don't know Java but the concepts are the same and the cl
 If you want to learn more about me and my work, check out my [website](https://hnasheralneam.github.io).  
 
 Programmer's Dvorak: ~100 wpm.  
-QWERTY: ~45 wpm.
 
-You can email me at hnasheralneam@gmail.com.  
-
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hnasheralneam)
+You can email me at hnasheralneam@gmail.com.
