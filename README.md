@@ -1,4 +1,12 @@
-I'm an amateur web developer, designer, sys admin, and cybersecurity competition competitor. Currently, I'm a full-time comp sci freshman at UMBC.  
-If you want to learn more about my work, check out my [website](https://hnasheralneam.dev). If you want to see my resume website, visit it [here](https://hnasheralneam.github.io/professional-profile)  
+I'm an amateur web developer and designer studying computer science at UMBC.  
+My other hobbies include system administration and competing in cybersecurity competitions.  
 
-You can email me at hnasheralneam@gmail.com.
+If you want to learn more about my work, check out my [website](https://hnasheralneam.dev)  
+If you want to see my resume website, visit it [here](https://hnasheralneam.github.io/professional-profile)  
+
+For contacting me, email is the fastest method.  
+
+**Email** hnasheralneam@gmail.com  
+**Matrix** hnasheralneam@matrix.hnasheralneam.dev  
+**LinkedIn** in/hnasheralneam  
+**Discord** scoreoutofbounds
